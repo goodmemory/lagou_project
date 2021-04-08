@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7205c1b2-d661-4106-9af4-5e7bea50b5a1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/Volumes/Memory/Mac/java_tools/maven-3.5.3" />
+        <option name="userSettingsFile" value="/Volumes/Memory/Mac/java_tools/maven-3.5.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qn4aLsXUpXk57uQwaXPsV3pbuJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.lagou.config" />
+      <recent name="com.lagou.sqlSession" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../IPersistence/src/main/java/com/lagou" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7205c1b2-d661-4106-9af4-5e7bea50b5a1" name="Default Changelist" comment="" />
+      <created>1617702083552</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617702083552</updated>
+      <workItem from="1617702088842" duration="439000" />
+      <workItem from="1617777984136" duration="974000" />
+      <workItem from="1617780315657" duration="810000" />
+      <workItem from="1617784839694" duration="6810000" />
+      <workItem from="1617797078780" duration="944000" />
+      <workItem from="1617854626443" duration="2752000" />
+      <workItem from="1617860361874" duration="399000" />
+      <workItem from="1617861187228" duration="50000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="234" y="64" key="#Notifications" timestamp="1617788302347">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state x="234" y="64" key="#Notifications/0.23.1280.737@0.23.1280.737" timestamp="1617788302347" />
+    <state x="453" y="82" key="#com.intellij.ide.util.MemberChooser" timestamp="1617858211665">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state x="453" y="82" key="#com.intellij.ide.util.MemberChooser/0.23.1280.737@0.23.1280.737" timestamp="1617858211665" />
+    <state x="379" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1617790756204">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state x="379" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1280.737@0.23.1280.737" timestamp="1617790756204" />
+    <state width="1238" height="184" key="GridCell.Tab.0.bottom" timestamp="1617792850515">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state width="1238" height="184" key="GridCell.Tab.0.bottom/0.23.1280.737@0.23.1280.737" timestamp="1617792850515" />
+    <state width="1238" height="184" key="GridCell.Tab.0.center" timestamp="1617792850515">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state width="1238" height="184" key="GridCell.Tab.0.center/0.23.1280.737@0.23.1280.737" timestamp="1617792850515" />
+    <state width="1238" height="184" key="GridCell.Tab.0.left" timestamp="1617792850514">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state width="1238" height="184" key="GridCell.Tab.0.left/0.23.1280.737@0.23.1280.737" timestamp="1617792850514" />
+    <state width="1238" height="184" key="GridCell.Tab.0.right" timestamp="1617792850515">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state width="1238" height="184" key="GridCell.Tab.0.right/0.23.1280.737@0.23.1280.737" timestamp="1617792850515" />
+    <state x="149" y="30" key="SettingsEditor" timestamp="1617861236254">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state x="149" y="30" key="SettingsEditor/0.23.1280.737@0.23.1280.737" timestamp="1617861236254" />
+    <state x="319" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1617860361594">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state x="319" y="224" key="com.intellij.ide.util.TipDialog/0.23.1280.737@0.23.1280.737" timestamp="1617860361594" />
+    <state x="34" y="89" key="new project wizard" timestamp="1617787862974">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state x="34" y="89" key="new project wizard/0.23.1280.737@0.23.1280.737" timestamp="1617787862974" />
+    <state x="305" y="84" key="search.everywhere.popup" timestamp="1617780017934">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state x="305" y="84" key="search.everywhere.popup/0.23.1280.737@0.23.1280.737" timestamp="1617780017934" />
+  </component>
+</project>
